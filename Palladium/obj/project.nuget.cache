@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ikqE3/rjfhA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bogdan\\RiderProjects\\Palladium\\Palladium\\Palladium.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bogdan\\.nuget\\packages\\photino.native\\4.0.22\\photino.native.4.0.22.nupkg.sha512",
+    "C:\\Users\\Bogdan\\.nuget\\packages\\photino.net\\4.0.16\\photino.net.4.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
