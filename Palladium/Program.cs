@@ -1,4 +1,7 @@
-﻿using Palladium.Dominio.Archivos;
+﻿using System;
+using System.IO;
+using Palladium.Dominio;
+
 
 Console.Write("Introduce el nombre de la nota: ");
 string? nombreNota = Console.ReadLine();

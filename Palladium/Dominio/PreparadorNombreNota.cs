@@ -1,4 +1,6 @@
-namespace Palladium.Dominio.Archivos;
+using System;
+
+namespace Palladium.Dominio;
 
 public static class PreparadorNombreNota
 {
