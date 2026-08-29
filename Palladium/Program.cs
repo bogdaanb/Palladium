@@ -9,7 +9,7 @@ string? nombreNota = Console.ReadLine();
 string nombreArchivo =
     PreparadorNombreNota.Preparar(nombreNota);
 
-string carpetaNotas = "Notas";
+string carpetaNotas = "..\\..\\..\\Notas";
 
 Directory.CreateDirectory(carpetaNotas);
 
